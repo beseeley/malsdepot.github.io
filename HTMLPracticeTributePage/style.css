@@ -3,6 +3,7 @@
 body{
   font-size: 18px;
   color: #333;
+  background-color: gray;
 }
 
 img {
@@ -12,10 +13,34 @@ display: block;
 margin: auto;
 }
 
+#title{
+text-align: center;
+background-color: lightyellow;}
+
 #img-div {
+text-align: center;
+background-color: lightyellow;
+}
+
+#tribute-info {
+border: 2px solid black;
+margin: auto;
 text-align: center;
 }
 
 p {
   line-height: 1.4em;
 }
+
+ol {
+list-style: none;
+margin: auto;
+max-width: 320px;
+}
+
+li {
+padding: auto;
+margin: auto;
+border: 1px solid black;
+background-color: lightyellow;
+max-width: 300px;}
