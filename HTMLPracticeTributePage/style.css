@@ -6,14 +6,14 @@ body{
 }
 
 img {
-margin: auto:
-}
-
-image {
 max-width: 100%;
 height: auto;
 display: block;
+margin: auto;
+}
 
+#img-div {
+text-align: center;
 }
 
 p {
