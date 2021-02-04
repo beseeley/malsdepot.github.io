@@ -26,6 +26,13 @@ background-color: lightyellow;
 border: 2px solid black;
 margin: auto;
 text-align: center;
+max-width: 500px;
+background-color: lightgrey;
+}
+
+#tribute-link {
+display: block;
+text-align: center;
 }
 
 p {
