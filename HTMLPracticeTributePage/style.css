@@ -5,6 +5,17 @@ body{
   color: #333;
 }
 
+img {
+margin: auto:
+}
+
+image {
+max-width: 100%;
+height: auto;
+display: block;
+
+}
+
 p {
   line-height: 1.4em;
 }
